@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-weight: inherit;
+    color: inherit;
+}
+html {
+    font-weight: normal;
+}
+ul {
+    list-style: none;
+}
+input {
+    border: none;
+    outline: none;
+}
+button {
+    border: none;
+    outline: none;
+    background-color: initial;
+}
